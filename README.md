@@ -1,4 +1,4 @@
-# Reach for Change — Donor Segmentation & Churn Prediction
+# Reach for Change - Donor Segmentation & Churn Prediction
 
 **Data Science and Machine Learning Group Project**  
 *NOVA IMS – Information Management School*  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Group Information
+## Group Information
 
 **Group Name:** `Group_AA_TP1`
 
@@ -31,7 +31,7 @@ The Civic Support Alliance (CSA) has decided to modernize how outreach campaigns
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
